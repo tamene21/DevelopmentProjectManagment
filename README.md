@@ -1,2 +1,2 @@
 # DevelopmentProjectManagment
-Development of Project Reporting and Monitoring Dashboard
+The Development of a Project Reporting and Monitoring Dashboard aims to enhance the efficiency, transparency, and accountability of project implementation at the Ethiopian Red Cross Society (ERCS), aligning with SDG 17: Partnerships for the Goals. The goal is to create a centralized, real-time, and user-friendly platform that consolidates project data, automates reporting, and provides interactive visualizations for informed decision-making. This initiative will enable ERCS to better monitor its developmental projects, which contribute to multiple SDGs, including health (SDG 3), clean water (SDG 6), and climate action (SDG 13).
